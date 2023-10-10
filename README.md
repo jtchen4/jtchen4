@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 I am a student at Northeastern taking CS1200
+Jacob Chen, CS, May 2027
